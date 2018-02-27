@@ -12,7 +12,7 @@ OE_HOME="/opt/$OE_USER"
 OE_VERSION="10.0"
 
 echo -e "\n==== Installing spanish localization ===="
-sudo git clone --branch 10.0 https://github.com/OCA/l10n-spain.git $OE_HOME/l10n-spain
+sudo git clone --branch $OE_VERSION https://github.com/OCA/l10n-spain.git $OE_HOME/l10n-spain
 
 echo -e "\n==== Installing some modules ===="
 sudo git clone --branch $OE_VERSION https://github.com/OCA/account-financial-tools.git $OE_HOME/account-financial-tools
