@@ -36,7 +36,7 @@ OE_PORT="8069"
 
 #Choose the Odoo version which you want to install. For example: 9.0, 8.0, 7.0 or saas-6. When using 'trunk' the master version will be installed.
 #IMPORTANT! This script contains extra libraries that are specifically needed for Odoo 9.0
-OE_VERSION="9.0"
+OE_VERSION="master"
 
 #set the superadmin password
 OE_SUPERADMIN="admin"
