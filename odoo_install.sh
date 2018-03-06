@@ -63,6 +63,10 @@ sudo apt-get install python-dateutil python-feedparser python-ldap python-libxsl
 echo -e "\n---- Install python libraries ----"
 sudo pip install gdata psycogreen ofxparse
 
+echo -e "\n---- Install more python libraries ----"
+sudo pip install pycrypto unidecode unicodecsv requests openupgradelib
+sudo -H pip install suds
+
 #--------------------------------------------------
 # Install Wkhtmltopdf if needed
 #--------------------------------------------------
