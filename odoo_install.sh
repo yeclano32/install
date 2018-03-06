@@ -74,6 +74,10 @@ echo -e "\n---- Install python libraries ----"
 # This is for compatibility with Ubuntu 16.04. Will work on 14.04, 15.04 and 16.04
 sudo apt-get install python3-suds
 
+echo -e "\n---- Install more python libraries ----"
+sudo pip install pycrypto unidecode unicodecsv requests openupgradelib
+sudo -H pip install suds
+
 echo -e "\n--- Install other required packages"
 sudo apt-get install node-clean-css -y
 sudo apt-get install node-less -y
