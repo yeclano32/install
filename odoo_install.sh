@@ -63,7 +63,11 @@ sudo apt-get install wget subversion git bzr bzrtools python-pip gdebi-core -y
 	
 echo -e "\n---- Install python packages ----"
 sudo apt-get install python-dateutil python-feedparser python-ldap python-libxslt1 python-lxml python-mako python-openid python-psycopg2 python-pybabel python-pychart python-pydot python-pyparsing python-reportlab python-simplejson python-tz python-vatnumber python-vobject python-webdav python-werkzeug python-xlwt python-yaml python-zsi python-docutils python-psutil python-mock python-unittest2 python-jinja2 python-pypdf python-decorator python-requests python-passlib python-pil -y
-	
+
+echo -e "\n---- Install more python libraries ----"
+sudo pip install pycrypto unidecode unicodecsv requests openupgradelib
+sudo -H pip install suds
+
 echo -e "\n---- Install python libraries ----"
 sudo pip install gdata psycogreen ofxparse
 
