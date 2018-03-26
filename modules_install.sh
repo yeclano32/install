@@ -24,7 +24,6 @@ sudo git clone --branch $OE_VERSION https://github.com/OCA/partner-contact.git $
 sudo git clone --branch $OE_VERSION https://github.com/OCA/server-tools.git $OE_HOME/server-tools
 sudo git clone --branch $OE_VERSION https://github.com/OCA/web.git $OE_HOME/web
 sudo git clone --branch $OE_VERSION https://github.com/OCA/bank-payment.git $OE_HOME/bank-payment
-sudo git clone --branch $OE_VERSION https://github.com/OCA/knowledge.git $OE_HOME/knowledge
 sudo git clone --branch $OE_VERSION https://github.com/OCA/pos.git $OE_HOME/pos
 sudo git clone --branch $OE_VERSION https://github.com/OCA/bank-statement-import.git $OE_HOME/bank-statement-import
 
