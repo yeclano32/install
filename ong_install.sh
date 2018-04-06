@@ -1,5 +1,5 @@
 #!/bin/bash
-# Instalación vertical de Odoo para una ONG
+# InstalaciÃ³n vertical de Odoo para una ONG
 
 # 1.- Descarga de repositorios desde github a la carpeta /opt/odoo
 echo -e "\nDescargando repositorios..."
@@ -10,8 +10,10 @@ sudo git clone https://github.com/OCA/server-tools.git -b 8.0 /opt/odoo/server-t
 sudo git clone https://github.com/OCA/sale-workflow.git -b 8.0 /opt/odoo/sale-workflow 
 sudo git clone https://github.com/OCA/stock-logistics-workflow.git -b 8.0 /opt/odoo/stock-logistics-workflow 
 sudo git clone https://github.com/OCA/department.git -b 8.0 /opt/odoo/department
+# MÃ³dulo instalador 
+sudo git clone https://github.com/inforcad/install.git -b 8.0 /opt/odoo/install
 
-# 2.- Crear los accesos directos a custom/addons de cada módulo necesario
+# 2.- Crear los accesos directos a custom/addons de cada mÃ³dulo necesario
 echo -e "\nCreando los accesos directos..."
 # Repositorio: vertical-ngo
 sudo ln -s /opt/odoo/vertical-ngo/framework_agreement_requisition /opt/odoo/custom/addons
@@ -74,3 +76,6 @@ sudo ln -s /opt/odoo/stock-logistics-workflow/stock_ownership_availability_rules
 sudo ln -s /opt/odoo/department/purchase_requisition_department /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/department/purchase_department /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/department/invoice_department /opt/odoo/custom/addons
+
+# Repositorio: install
+sudo ln -s /opt/odoo/install/ong_install /opt/odoo/custom/addons
