@@ -10,6 +10,7 @@ l10n-spain
 partner-contact
 reporting-engine
 server-tools
+web
 
 # 2.Acceso directo
 sudo ln -s /opt/odoo/account-financial-reporting/account_export_csv /opt/odoo/custom/addons
@@ -55,7 +56,8 @@ partner-contact/base_location_geonames_import
 partner-contact/base_partner_sequence
 reporting-engine/report_xlsx
 server-tools/disable_odoo_online
-
+server-tools/mass_editing
+web/web_export_view
 
 
 
