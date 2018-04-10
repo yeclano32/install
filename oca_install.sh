@@ -4,13 +4,13 @@
 sudo git clone https://github.com/OCA/account-financial-reporting.git -b 10.0 /opt/odoo/account-financial-reporting
 sudo git clone https://github.com/OCA/account-financial-tools.git -b 10.0 /opt/odoo/account-financial-tools
 sudo git clone https://github.com/OCA/account-payment.git -b 10.0 /opt/odoo/account-payment
-bank-payment
-knowledge
-l10n-spain
-partner-contact
-reporting-engine
-server-tools
-web
+sudo git clone https://github.com/OCA/bank-payment.git -b 10.0 /opt/odoo/bank-payment
+sudo git clone https://github.com/OCA/knowledge.git -b 10.0 /opt/odoo/knowledge
+sudo git clone https://github.com/OCA/l10n-spain.git -b 10.0 /opt/odoo/l10n-spain
+sudo git clone https://github.com/OCA/partner-contact.git -b 10.0 /opt/odoo/partner-contact
+sudo git clone https://github.com/OCA/reporting-engine.git -b 10.0 /opt/odoo/reporting-engine
+sudo git clone https://github.com/OCA/server-tools.git -b 10.0 /opt/odoo/server-tools
+sudo git clone https://github.com/OCA/web.git -b 10.0 /opt/odoo/web
 
 # 2.Acceso directo
 sudo ln -s /opt/odoo/account-financial-reporting/account_export_csv /opt/odoo/custom/addons
