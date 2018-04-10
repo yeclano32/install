@@ -21,7 +21,7 @@ sudo ln -s /opt/odoo/account-financial-tools/account_invoice_currency /opt/odoo/
 sudo ln -s /opt/odoo/account-financial-tools/account_journal_always_check_date /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/account-financial-tools/account_renumber /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/account-payment/account_due_list /opt/odoo/custom/addons
-account-payment/account_due_list_payment_mode
+sudo ln -s /account-payment/account_due_list_payment_mode
 bank-payment/account_banking_mandate
 bank-payment/account_banking_pain_base
 bank-payment/account_banking_sepa_direct_debit
