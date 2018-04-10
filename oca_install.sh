@@ -35,29 +35,29 @@ sudo ln -s /l10n-spain/account_balance_reporting
 sudo ln -s /l10n-spain/l10n_es_account_asset
 sudo ln -s /l10n-spain/l10n_es_account_balance_report
 sudo ln -s /l10n-spain/l10n_es_account_bank_statement_import_n43
-l10n-spain/l10n_es_account_invoice_sequence
-l10n-spain/l10n_es_aeat_mod111
-l10n-spain/l10n_es_aeat_mod115
-l10n-spain/l10n_es_aeat_mod130
-l10n-spain/l10n_es_aeat_mod303
-l10n-spain/l10n_es_aeat_mod340_type0
-l10n-spain/l10n_es_aeat_mod340
-l10n-spain/l10n_es_aeat_mod347
-l10n-spain/l10n_es_aeat_mod349
-l10n-spain/l10n_es_aeat
-l10n-spain/l10n_es_account_fiscal_year_closing
-l10n-spain/l10n_es_partner_mercantil
-l10n-spain/l10n_es_partner
-l10n-spain/l10n_es_pos
-l10n-spain/l10n_es_toponyms
-l10n-spain/l10n_es
-partner-contact/base_location
-partner-contact/base_location_geonames_import
-partner-contact/base_partner_sequence
-reporting-engine/report_xlsx
-server-tools/disable_odoo_online
-server-tools/mass_editing
-web/web_export_view
+sudo ln -s l10n-spain/l10n_es_account_invoice_sequence
+sudo ln -s l10n-spain/l10n_es_aeat_mod111
+sudo ln -s l10n-spain/l10n_es_aeat_mod115
+sudo ln -s l10n-spain/l10n_es_aeat_mod130
+sudo ln -s l10n-spain/l10n_es_aeat_mod303
+sudo ln -s l10n-spain/l10n_es_aeat_mod340_type0
+sudo ln -s l10n-spain/l10n_es_aeat_mod340
+sudo ln -s l10n-spain/l10n_es_aeat_mod347
+sudo ln -s l10n-spain/l10n_es_aeat_mod349
+sudo ln -s l10n-spain/l10n_es_aeat
+sudo ln -s l10n-spain/l10n_es_account_fiscal_year_closing
+sudo ln -s l10n-spain/l10n_es_partner_mercantil
+sudo ln -s l10n-spain/l10n_es_partner
+sudo ln -s l10n-spain/l10n_es_pos
+sudo ln -s l10n-spain/l10n_es_toponyms
+sudo ln -s l10n-spain/l10n_es
+sudo ln -s partner-contact/base_location
+sudo ln -s partner-contact/base_location_geonames_import
+sudo ln -s partner-contact/base_partner_sequence
+sudo ln -s reporting-engine/report_xlsx
+sudo ln -s server-tools/disable_odoo_online
+sudo ln -s server-tools/mass_editing
+sudo ln -s web/web_export_view
 
 
 
