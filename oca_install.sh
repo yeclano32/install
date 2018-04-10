@@ -7,7 +7,9 @@ sudo git clone https://github.com/OCA/account-payment.git -b 10.0 /opt/odoo/acco
 bank-payment
 knowledge
 l10n-spain
-
+partner-contact
+reporting-engine
+server-tools
 
 # 2.Acceso directo
 sudo ln -s /opt/odoo/account-financial-reporting/account_export_csv /opt/odoo/custom/addons
@@ -48,7 +50,11 @@ l10n-spain/l10n_es_partner
 l10n-spain/l10n_es_pos
 l10n-spain/l10n_es_toponyms
 l10n-spain/l10n_es
-
+partner-contact/base_location
+partner-contact/base_location_geonames_import
+partner-contact/base_partner_sequence
+reporting-engine/report_xlsx
+server-tools/disable_odoo_online
 
 
 
