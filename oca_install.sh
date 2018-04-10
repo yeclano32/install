@@ -5,6 +5,9 @@ sudo git clone https://github.com/OCA/account-financial-reporting.git -b 10.0 /o
 sudo git clone https://github.com/OCA/account-financial-tools.git -b 10.0 /opt/odoo/account-financial-tools
 sudo git clone https://github.com/OCA/account-payment.git -b 10.0 /opt/odoo/account-payment
 bank-payment
+knowledge
+l10n-spain
+
 
 # 2.Acceso directo
 sudo ln -s /opt/odoo/account-financial-reporting/account_export_csv /opt/odoo/custom/addons
@@ -20,3 +23,33 @@ bank-payment/account_banking_mandate
 bank-payment/account_banking_pain_base
 bank-payment/account_banking_sepa_direct_debit
 bank-payment/account_payment_partner
+knowledge/attachment_preview
+knowledge/attachments_to_filesystem
+knowledge/document_page
+knowledge/document_url
+l10n-spain/account_balance_reporting_xlsx
+l10n-spain/account_balance_reporting
+l10n-spain/l10n_es_account_asset
+l10n-spain/l10n_es_account_balance_report
+l10n-spain/l10n_es_account_bank_statement_import_n43
+l10n-spain/l10n_es_account_invoice_sequence
+l10n-spain/l10n_es_aeat_mod111
+l10n-spain/l10n_es_aeat_mod115
+l10n-spain/l10n_es_aeat_mod130
+l10n-spain/l10n_es_aeat_mod303
+l10n-spain/l10n_es_aeat_mod340_type0
+l10n-spain/l10n_es_aeat_mod340
+l10n-spain/l10n_es_aeat_mod347
+l10n-spain/l10n_es_aeat_mod349
+l10n-spain/l10n_es_aeat
+l10n-spain/l10n_es_account_fiscal_year_closing
+l10n-spain/l10n_es_partner_mercantil
+l10n-spain/l10n_es_partner
+l10n-spain/l10n_es_pos
+
+
+
+
+
+
+
