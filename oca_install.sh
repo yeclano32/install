@@ -46,6 +46,8 @@ l10n-spain/l10n_es_account_fiscal_year_closing
 l10n-spain/l10n_es_partner_mercantil
 l10n-spain/l10n_es_partner
 l10n-spain/l10n_es_pos
+l10n-spain/l10n_es_toponyms
+l10n-spain/l10n_es
 
 
 
