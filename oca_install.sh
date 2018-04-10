@@ -22,19 +22,19 @@ sudo ln -s /opt/odoo/account-financial-tools/account_journal_always_check_date /
 sudo ln -s /opt/odoo/account-financial-tools/account_renumber /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/account-payment/account_due_list /opt/odoo/custom/addons
 sudo ln -s /account-payment/account_due_list_payment_mode
-bank-payment/account_banking_mandate
-bank-payment/account_banking_pain_base
-bank-payment/account_banking_sepa_direct_debit
-bank-payment/account_payment_partner
-knowledge/attachment_preview
-knowledge/attachments_to_filesystem
-knowledge/document_page
-knowledge/document_url
-l10n-spain/account_balance_reporting_xlsx
-l10n-spain/account_balance_reporting
-l10n-spain/l10n_es_account_asset
-l10n-spain/l10n_es_account_balance_report
-l10n-spain/l10n_es_account_bank_statement_import_n43
+sudo ln -s /bank-payment/account_banking_mandate
+sudo ln -s /bank-payment/account_banking_pain_base
+sudo ln -s /bank-payment/account_banking_sepa_direct_debit
+sudo ln -s /bank-payment/account_payment_partner
+sudo ln -s /knowledge/attachment_preview
+sudo ln -s /knowledge/attachments_to_filesystem
+sudo ln -s /knowledge/document_page
+sudo ln -s /knowledge/document_url
+sudo ln -s /l10n-spain/account_balance_reporting_xlsx
+sudo ln -s /l10n-spain/account_balance_reporting
+sudo ln -s /l10n-spain/l10n_es_account_asset
+sudo ln -s /l10n-spain/l10n_es_account_balance_report
+sudo ln -s /l10n-spain/l10n_es_account_bank_statement_import_n43
 l10n-spain/l10n_es_account_invoice_sequence
 l10n-spain/l10n_es_aeat_mod111
 l10n-spain/l10n_es_aeat_mod115
