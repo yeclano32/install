@@ -30,5 +30,6 @@
 "mass_editing",
 "date_range",
 "web_export_view", 
+"account_fiscal_year_closing",
 ],
 
