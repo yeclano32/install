@@ -35,6 +35,7 @@ sudo ln -s /opt/odoo/bank-payment/account_payment_mode /opt/odoo/custom/addons
 # Repositorio: knowledge
 sudo ln -s /opt/odoo/knowledge/document_page /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/knowledge/knowledge /opt/odoo/custom/addons
+
 # Repositorio: l10n-spain
 sudo ln -s /opt/odoo/l10n-spain/l10n_es_account_asset /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/l10n-spain/l10n_es_account_balance_report /opt/odoo/custom/addons
