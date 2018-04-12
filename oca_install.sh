@@ -11,7 +11,7 @@ sudo git clone https://github.com/OCA/partner-contact.git -b 10.0 /opt/odoo/part
 sudo git clone https://github.com/OCA/reporting-engine.git -b 10.0 /opt/odoo/reporting-engine
 sudo git clone https://github.com/OCA/server-tools.git -b 10.0 /opt/odoo/server-tools
 sudo git clone https://github.com/OCA/web.git -b 10.0 /opt/odoo/web
-
+sudo git clone https://github.com/OCA/account-closing.git -b 10.0 /opt/odoo/account-closing
 # 2.Acceso directo
 
 # Repositorio: account-financial-tools
