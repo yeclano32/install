@@ -58,6 +58,7 @@ sudo ln -s /opt/odoo/reporting-engine/report_xlsx /opt/odoo/custom/addons
 # Repositorio: server-tools
 sudo ln -s /opt/odoo/server-tools/disable_odoo_online /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/server-tools/mass_editing /opt/odoo/custom/addons
+sudo ln -s /opt/odoo/server-tools/date_range /opt/odoo/custom/addons
 
 # Repositorio: web
 sudo ln -s /opt/odoo/web/web_export_view /opt/odoo/custom/addons
