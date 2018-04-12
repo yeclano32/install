@@ -19,6 +19,7 @@ sudo ln -s /opt/odoo/account-financial-tools/account_chart_update /opt/odoo/cust
 sudo ln -s /opt/odoo/account-financial-tools/account_invoice_constraint_chronology /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/account-financial-tools/account_invoice_currency /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/account-financial-tools/account_renumber /opt/odoo/custom/addons
+sudo ln -s /opt/odoo/account-financial-tools/account_reversal /opt/odoo/custom/addons
 
 # Repositorio: account-payment
 sudo ln -s /opt/odoo/account-payment/account_due_list /opt/odoo/custom/addons
