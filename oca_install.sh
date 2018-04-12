@@ -31,6 +31,7 @@ sudo ln -s /opt/odoo/bank-payment/account_banking_sepa_direct_debit /opt/odoo/cu
 sudo ln -s /opt/odoo/bank-payment/account_payment_partner /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/bank-payment/account_payment_order /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/bank-payment/account_payment_mode /opt/odoo/custom/addons
+
 # Repositorio: knowledge
 sudo ln -s /opt/odoo/knowledge/document_page /opt/odoo/custom/addons
 
