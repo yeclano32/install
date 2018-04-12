@@ -32,5 +32,6 @@
 "date_range",
 "web_export_view", 
 "account_fiscal_year_closing",
+"account_tax_balance",
 ],
 
