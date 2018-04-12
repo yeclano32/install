@@ -27,7 +27,7 @@ sudo ln -s /opt/odoo/bank-payment/account_banking_pain_base /opt/odoo/custom/add
 sudo ln -s /opt/odoo/bank-payment/account_banking_sepa_direct_debit /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/bank-payment/account_payment_partner /opt/odoo/custom/addons
 
-sudo ln -s /opt/odoo/knowledge/attachments_to_filesystem /opt/odoo/custom/addons
+
 sudo ln -s /opt/odoo/knowledge/document_page /opt/odoo/custom/addons
 
 sudo ln -s /opt/odoo/l10n-spain/account_balance_reporting_xlsx /opt/odoo/custom/addons
