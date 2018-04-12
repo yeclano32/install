@@ -64,7 +64,7 @@ sudo ln -s /opt/odoo/server-tools/date_range /opt/odoo/custom/addons
 # Repositorio: web
 sudo ln -s /opt/odoo/web/web_export_view /opt/odoo/custom/addons
 
-
-
+# Repositorio: account-closing
+sudo ln -s /opt/odoo/account-closing/account_fiscal_year_closing /opt/odoo/custom/addons
 
 
