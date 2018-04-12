@@ -68,4 +68,5 @@ sudo ln -s /opt/odoo/web/web_export_view /opt/odoo/custom/addons
 # Repositorio: account-closing
 sudo ln -s /opt/odoo/account-closing/account_fiscal_year_closing /opt/odoo/custom/addons
 
-
+# Repositorio: account-financial-reporting
+sudo ln -s /opt/odoo/account-financial-reporting/account_tax_balance /opt/odoo/custom/addons
