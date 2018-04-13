@@ -43,7 +43,7 @@ sudo ln -s /opt/odoo/l10n-spain/l10n_es_account_balance_report /opt/odoo/custom/
 sudo ln -s /opt/odoo/l10n-spain/l10n_es_account_bank_statement_import_n43 /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/l10n-spain/l10n_es_account_invoice_sequence /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/l10n-spain/l10n_es_aeat /opt/odoo/custom/addons
-sudo ln -s /opt/odoo/l10n-spain/l10n_es_account_fiscal_year_closing /opt/odoo/custom/addons
+
 sudo ln -s /opt/odoo/l10n-spain/account_balance_reporting /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/l10n-spain/account_balance_reporting_xlsx /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/l10n-spain/l10n_es /opt/odoo/custom/addons
