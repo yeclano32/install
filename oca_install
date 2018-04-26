@@ -11,7 +11,7 @@
 "account_banking_pain_base", 
 "account_banking_sepa_direct_debit", 
 "account_payment_partner", 
-
+"account_payment_order",
 
 "document_page", 
  
