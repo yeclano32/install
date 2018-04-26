@@ -14,7 +14,7 @@
 "account_payment_order",
 "account_payment_mode",
 "document_page", 
- 
+ "date_range",
 "account_balance_reporting_xlsx", 
 "account_balance_reporting", 
 "l10n_es_account_asset", 
