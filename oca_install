@@ -12,7 +12,7 @@
 "account_banking_sepa_direct_debit", 
 "account_payment_partner", 
 "account_payment_order",
-
+"account_payment_mode",
 "document_page", 
  
 "account_balance_reporting_xlsx", 
