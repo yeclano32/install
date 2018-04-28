@@ -9,7 +9,7 @@
 "account_due_list_payment_mode", 
 "account_banking_mandate", 
 "account_banking_pain_base", 
-"account_banking_sepa_direct_debit", 
+ 
 "account_payment_partner", 
 "account_payment_order",
 "account_payment_mode",
