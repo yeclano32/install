@@ -47,7 +47,7 @@ sudo ln -s /opt/odoo/l10n-spain/l10n_es_aeat_mod303 /opt/odoo/custom/addons
 
 sudo ln -s /opt/odoo/l10n-spain/l10n_es_aeat_mod349 /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/l10n-spain/l10n_es_aeat /opt/odoo/custom/addons
-sudo ln -s /opt/odoo/l10n-spain/l10n_es_account_fiscal_year_closing /opt/odoo/custom/addons
+
 sudo ln -s /opt/odoo/l10n-spain/l10n_es_partner_mercantil /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/l10n-spain/l10n_es_partner /opt/odoo/custom/addons
 
