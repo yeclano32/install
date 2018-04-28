@@ -40,5 +40,6 @@
 "base_partner_sequence", 
 "report_xlsx", 
 "disable_odoo_online", 
-"mass_editing", 
+"mass_editing",
+"date_range",
 "web_export_view",
