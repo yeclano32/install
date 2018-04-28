@@ -7,7 +7,7 @@
 "account_renumber", 
 "account_due_list", 
 "account_due_list_payment_mode", 
-"account_banking_mandate", 
+ 
  
  
 "account_payment_partner", 
@@ -25,9 +25,9 @@
  
  
  
-"l10n_es_aeat_mod303", 
  
-"l10n_es_aeat_mod349", 
+ 
+ 
 "l10n_es_aeat", 
  
 "l10n_es_partner_mercantil", 
