@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # 1.Descarga
+sudo git clone https://github.com/OCA/account-closing.git -b 10.0 /opt/odoo/account-closing
 sudo git clone https://github.com/OCA/account-financial-reporting.git -b 10.0 /opt/odoo/account-financial-reporting
 sudo git clone https://github.com/OCA/account-financial-tools.git -b 10.0 /opt/odoo/account-financial-tools
 sudo git clone https://github.com/OCA/account-payment.git -b 10.0 /opt/odoo/account-payment
@@ -14,6 +15,7 @@ sudo git clone https://github.com/OCA/web.git -b 10.0 /opt/odoo/web
 
 
 # 2.Acceso directo
+sudo ln -s /opt/odoo/account-closing/account_fiscal_year_closing /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/account-financial-reporting/account_tax_balance /opt/odoo/custom/addons
 
 sudo ln -s /opt/odoo/account-financial-tools/account_chart_update /opt/odoo/custom/addons
