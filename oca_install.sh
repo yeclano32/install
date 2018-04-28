@@ -11,7 +11,7 @@ sudo git clone https://github.com/OCA/l10n-spain.git -b 10.0 /opt/odoo/l10n-spai
 sudo git clone https://github.com/OCA/partner-contact.git -b 10.0 /opt/odoo/partner-contact
 sudo git clone https://github.com/OCA/reporting-engine.git -b 10.0 /opt/odoo/reporting-engine
 sudo git clone https://github.com/OCA/server-tools.git -b 10.0 /opt/odoo/server-tools
-sudo git clone https://github.com/OCA/web.git -b 10.0 /opt/odoo/web
+
 
 
 # 2.Acceso directo
