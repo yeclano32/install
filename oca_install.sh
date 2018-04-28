@@ -27,7 +27,7 @@ sudo ln -s /opt/odoo/account-payment/account_due_list /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/account-payment/account_due_list_payment_mode /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/bank-payment/account_banking_mandate /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/bank-payment/account_banking_pain_base /opt/odoo/custom/addons
-sudo ln -s /opt/odoo/bank-payment/account_banking_sepa_direct_debit /opt/odoo/custom/addons
+
 sudo ln -s /opt/odoo/bank-payment/account_payment_partner /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/bank-payment/account_payment_order /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/bank-payment/account_payment_mode /opt/odoo/custom/addons
